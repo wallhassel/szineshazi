@@ -1752,7 +1752,7 @@ namespace Szinvaltos_hazi
                         Console.WriteLine("mind az öt csillagot a kígyóval.");
                         Console.SetCursorPosition(15, 9);
                         Console.WriteLine("Ha kimész a képernyőről, vagy ha letelik");
-                        Console.SetCursorPosition(15, 110);
+                        Console.SetCursorPosition(15, 11);
                         Console.WriteLine("a körszám, vesztettél.");
                         Console.SetCursorPosition(15, 14);
                         Console.WriteLine("Irányítás: W A S D gombokkal");
