@@ -1,0 +1,6 @@
+C:\Users\MATYI\Desktop\SzoftverFSZ\Szinvaltos hazi\Szinvaltos hazi\obj\Debug\Szinvaltos hazi.csprojAssemblyReference.cache
+C:\Users\MATYI\Desktop\SzoftverFSZ\Szinvaltos hazi\Szinvaltos hazi\bin\Debug\Szinvaltos hazi.exe.config
+C:\Users\MATYI\Desktop\SzoftverFSZ\Szinvaltos hazi\Szinvaltos hazi\bin\Debug\Szinvaltos hazi.exe
+C:\Users\MATYI\Desktop\SzoftverFSZ\Szinvaltos hazi\Szinvaltos hazi\bin\Debug\Szinvaltos hazi.pdb
+C:\Users\MATYI\Desktop\SzoftverFSZ\Szinvaltos hazi\Szinvaltos hazi\obj\Debug\Szinvaltos hazi.exe
+C:\Users\MATYI\Desktop\SzoftverFSZ\Szinvaltos hazi\Szinvaltos hazi\obj\Debug\Szinvaltos hazi.pdb
